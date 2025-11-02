@@ -19,17 +19,17 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email: jaewon915@naver.com
-  facebook:
-  flickr:
+  facebook: jaewon
+  flickr: jaewon
   github: jaewon915.github.io
-  instagram:
-  linkedin:
-  pinterest:
+  instagram: jaewon
+  linkedin: jaewon
+  pinterest: jaewon
   rss: # just type anything here for a working RSS icon
   twitter: jaewon
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  stackoverflow: jaewon # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  youtube: jaewon # channel/<your_long_string> or user/<user-name>
+  googleplus: jaewon # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
